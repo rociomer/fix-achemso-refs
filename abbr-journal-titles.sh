@@ -12,12 +12,12 @@
 #  abbr-journal-titles.sh in the same directory as your bib file and
 #  the CASSI_abbreviations.txt file.
 #
-# If your bib file contains a "new" journal (or it is somehow not recognized),
-#  you can add it to CASSI_abbreviations.txt, making sure to follow the same
-#  format as the other references:
-#  -- escape any commas in the journal title/abbreviation (i.e. "," --> "\,")
-#  -- spell out ampersands (i.e. "&" --> "and")
-#  -- remove any beginning "the" (i.e. "The Journal" --> "Journal")
+# If your bib file contains a "new" journal (or one that is somehow not
+#  recognized), you can add it to CASSI_abbreviations.txt, making sure to
+#  follow the same format as the other references:
+#  + escape any commas in the journal title/abbreviation (i.e. "," --> "\,")
+#  + spell out ampersands (i.e. "&" --> "and")
+#  + remove any beginning "the" (i.e. "The Journal" --> "Journal")
 #  Case is not important! 
 #-------------------------------------------------------------------------------
 # Written by rociomer on 03.05.18
