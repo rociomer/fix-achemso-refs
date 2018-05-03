@@ -18,7 +18,8 @@ If your bib file contains a "new" journal (or one that is somehow not
  + escape any commas in the journal title/abbreviation (i.e. "," --> "\,")
  + spell out ampersands (i.e. "&" --> "and")
  + remove any beginning "the" (i.e. "The Journal" --> "Journal")
- Case is not important! 
+
+Case is not important! 
 
 ## Author
 Rocío Mercado
