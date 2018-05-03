@@ -1,0 +1,65 @@
+@full_journal_name, CASSI_abbreviation
+@Accounts of Chemical Research, Acc. Chem. Res.
+@ACS Chemical Biology, ACS Chem. Biol.
+@Acta Crystallographica Section A: Foundations of Crystallography, Acta Crystallogr.\, Sect. A: Found. Crystallogr.
+@Acta Crystallographica\, Section A: Foundations of Crystallography, Acta Crystallogr.\, Sect. A: Found. Crystallogr.
+@Adsorption, Adsorption
+@AIChE Journal, AIChE J.
+@Analytical Chemistry, Anal. Chem.
+@Biochemistry, Biochemistry
+@Bioconjugate Chemistry, Bioconjugate Chem.
+@Biomacromolecules, Biomacromolecules
+@Biotechnology Progress, Biotechnol. Prog.
+@Carbon, Carbon
+@Chemical and Environmental Science, Chem. Environ. Sci.
+@Chemical Communications, Chem. Commun.
+@Chemical and Engineering News Chem. Eng. News
+@Chemical Engineering Science, Chem. Eng. Sci.
+@Chemical Research in Toxicology, Chem. Res. Toxicol.
+@Chemical Reviews, Chem. Rev.
+@Chemical Science, Chem. Sci.
+@Chemical Society Reviews, Chem. Soc. Rev.
+@Chemistry of Materials, Chem. Mater.
+@Climatic Change, Clim. Change
+@Crystal Growth and Design, Cryst. Growth Des.
+@Energy and Environmental Science, Energy Environ. Sci.
+@Energy and Fuels, Energy Fuels
+@Energy Policy, Energy Policy
+@Environmental Science and Technology, Environ. Sci. Technol.
+@Industrial and Engineering Chemistry Research, Ind. Eng. Chem. Res.
+@Inorganic Chemistry, Inorg. Chem.
+@International Journal of Environmental Studies, Int. J. Environ. Stud.
+@Journal of Agricultural and Food Chemistry, J. Agric. Food Chem.
+@Journal of Applied Crystallography, J. Appl. Crystallogr.
+@Journal of the American Chemical Society, J. Am. Chem. Soc.
+@Journal of Chemical and Engineering Data, J. Chem. Eng. Data
+@Journal of Chemical Information and Modeling, J. Chem. Inf. Model.
+@Journal of Chemical Theory and Computation, J. Chem. Theory Comput.
+@Journal of Cheminformatics, J. Cheminf.
+@Journal of Combinatorial Chemistry, J. Comb. Chem.
+@Journal of Computational Physics, J. Comput. Phys.
+@Journal of Fuel Chemistry and Technology, J. Fuel Chem. Technol.
+@Journal of Medicinal Chemistry, J. Med. Chem.
+@Journal of Molecular Modeling, J. Mol. Model.
+@Journal of Natural Products, J. Nat. Prod.
+@Journal of Porous Materials, J. Porous Mater. 
+@Journal of Physical Chemistry, J. Phys. Chem.
+@Journal of Physical Chemistry Letters, J. Phys. Chem. Lett.
+@Journal of Organic Chemistry, J. Org. Chem.
+@Journal of Physical Chemistry A, J. Phys. Chem. A
+@Journal of Physical Chemistry B, J. Phys. Chem. B
+@Journal of Physical Chemistry C, J. Phys. Chem. C
+@Journal of Proteome Research, J. Proteome Res.
+@Langmuir, Langmuir
+@Macromolecules, Macromolecules
+@Microporous and Mesoporous Materials, Microporous Mesoporous Mater.
+@Molecular Pharmaceutics, Mol. Pharm.
+@Nano Letters, Nano Lett.
+@Nature, Nature
+@Organic Letters, Org. Lett.
+@Organic Process Research and Development, Org. Process Res. Dev.
+@Organometallics, Organometallics
+@Proceedings of the National Academy of Sciences, Proc. Natl. Acad. Sci.
+@Physical Review Letters, Phys. Rev. Lett.
+@Science, Science
+@Synthesis, Synthesis
