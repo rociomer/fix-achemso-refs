@@ -23,8 +23,8 @@
 # Written by rociomer on 03.05.18
 #-------------------------------------------------------------------------------
 
-bibFile="references.bib" # input
-bibFileAbbr="references_abbr.bib" # output
+bibFile="COFreferences.bib" # input
+bibFileAbbr="COFreferences-CASSI.bib" # output
 
 bibPreprocessing(){
   # replace any & symbols with "and"
@@ -68,7 +68,7 @@ main(){
     #  *** note how the journal name is sandwiched between an "@" and a ","
     #  in CASSI_abbreviations.txt ***
     journalLine=$(grep -i "@$journalName," CASSI_abbreviations.txt)
-    journalAbbr=${journalLine#*,}
+    journalAbbr=${journalLine#*, }
 
     # replace title in bib file if abbreviation is known
     if [[ $journalAbbr ]]; then # if variable $journalAbbr not empty
