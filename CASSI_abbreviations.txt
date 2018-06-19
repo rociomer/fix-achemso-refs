@@ -4,8 +4,11 @@
 @Acta Crystallographica Section A: Foundations of Crystallography, Acta Crystallogr.\, Sect. A: Found. Crystallogr.
 @Acta Crystallographica\, Section A: Foundations of Crystallography, Acta Crystallogr.\, Sect. A: Found. Crystallogr.
 @Adsorption, Adsorption
+@Advanced Materials, Adv. Mater.
 @AIChE Journal, AIChE J.
 @Analytical Chemistry, Anal. Chem.
+@Angewandte Chemie, International Edition, Angew. Chem., Int. Ed.
+@Angewandte Chemie, Angew. Chem.
 @Biochemistry, Biochemistry
 @Bioconjugate Chemistry, Bioconjugate Chem.
 @Biomacromolecules, Biomacromolecules
@@ -21,14 +24,20 @@
 @Chemical Society Reviews, Chem. Soc. Rev.
 @Chemistry of Materials, Chem. Mater.
 @Climatic Change, Clim. Change
+@Computers in Physics, Comput. Phys.
 @Crystal Growth and Design, Cryst. Growth Des.
+@eMagRes, eMagRes
 @Energy and Environmental Science, Energy Environ. Sci.
 @Energy and Fuels, Energy Fuels
 @Energy Policy, Energy Policy
 @Environmental Science and Technology, Environ. Sci. Technol.
+@European Journal of Inorganic Chemistry, Eur. J. Inorg. Chem.
+@Faraday Discussions, Faraday Discuss.
 @Industrial and Engineering Chemistry Research, Ind. Eng. Chem. Res.
+@Inorganic Chemistry Communications, Inorg. Chem. Commun.
 @Inorganic Chemistry, Inorg. Chem.
 @International Journal of Environmental Studies, Int. J. Environ. Stud.
+@International Journal of Greenhouse Gas Control, Int. J. Greenhouse Gas Control
 @Journal of Agricultural and Food Chemistry, J. Agric. Food Chem.
 @Journal of Applied Crystallography, J. Appl. Crystallogr.
 @Journal of the American Chemical Society, J. Am. Chem. Soc.
@@ -37,12 +46,20 @@
 @Journal of Chemical Theory and Computation, J. Chem. Theory Comput.
 @Journal of Cheminformatics, J. Cheminf.
 @Journal of Combinatorial Chemistry, J. Comb. Chem.
+@Journal of Computational Chemistry, J. Comput. Chem.
 @Journal of Computational Physics, J. Comput. Phys.
 @Journal of Fuel Chemistry and Technology, J. Fuel Chem. Technol.
+@Journal of Materials Chemistry A: Materials for Energy and Sustainability, J. Mater. Chem. A
+@Journal of Materials Chemistry A, J. Mater. Chem. A
+@Journal of Materials Chemistry B: Materials for Biology and Medicine, J. Mater. Chem. B
+@Journal of Materials Chemistry B, J. Mater. Chem. B
+@Journal of Materials Chemistry C: Materials for Optical and Electronic Devices, J. Mater. Chem. C
+@Journal of Materials Chemistry C, J. Mater. Chem. C
+@Journal of Materials Chemistry, J. Mater. Chem.
 @Journal of Medicinal Chemistry, J. Med. Chem.
 @Journal of Molecular Modeling, J. Mol. Model.
 @Journal of Natural Products, J. Nat. Prod.
-@Journal of Porous Materials, J. Porous Mater. 
+@Journal of Porous Materials, J. Porous Mater.
 @Journal of Physical Chemistry, J. Phys. Chem.
 @Journal of Physical Chemistry Letters, J. Phys. Chem. Lett.
 @Journal of Organic Chemistry, J. Org. Chem.
@@ -51,15 +68,26 @@
 @Journal of Physical Chemistry C, J. Phys. Chem. C
 @Journal of Proteome Research, J. Proteome Res.
 @Langmuir, Langmuir
+@Macromolecular Rapid Communications, Macromol. Rapid Commun.
 @Macromolecules, Macromolecules
+@Magnetic Resonance Imaging, Magn. Reson. Imaging
+@Materials Horizons, Mater. Horiz.
 @Microporous and Mesoporous Materials, Microporous Mesoporous Mater.
 @Molecular Pharmaceutics, Mol. Pharm.
+@Molecular Simulation, Mol. Simul.
 @Nano Letters, Nano Lett.
+@National Science Review, Natl. Sci. Rev.
+@Nature Communications, Nat. Commun.
+@Nature Reviews Materials, Nat. Rev. Mater.
 @Nature, Nature
 @Organic Letters, Org. Lett.
 @Organic Process Research and Development, Org. Process Res. Dev.
 @Organometallics, Organometallics
+@Physical Chemistry Chemical Physics, Phys. Chem. Chem. Phys.
+@Polymer International, Polym. Int.
 @Proceedings of the National Academy of Sciences, Proc. Natl. Acad. Sci.
+@Progress in Polymer Science, Prog. Polym. Sci.
 @Physical Review Letters, Phys. Rev. Lett.
 @Science, Science
 @Synthesis, Synthesis
+@Tetrahedron, Tetrahedron
