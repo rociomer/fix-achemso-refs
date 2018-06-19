@@ -8,6 +8,7 @@
 @AIChE Journal, AIChE J.
 @Analytical Chemistry, Anal. Chem.
 @Angewandte Chemie, International Edition, Angew. Chem., Int. Ed.
+@Angewandte Chemie International Edition, Angew. Chem., Int. Ed.
 @Angewandte Chemie, Angew. Chem.
 @Biochemistry, Biochemistry
 @Bioconjugate Chemistry, Bioconjugate Chem.
