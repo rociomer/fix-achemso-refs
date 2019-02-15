@@ -15,7 +15,7 @@ To use, edit the name for the bibFile variable at the top of the program
 If your bib file contains a "new" journal (or one that is somehow not
  recognized), you can add it to *CASSI\_abbreviations.txt*, making sure to
  follow the same format as the other references:
- + escape any commas in the journal title/abbreviation (i.e. "," --> "\,")
+ + escape any commas in the journal title/abbreviation (i.e. "," --> "\\,")
  + spell out ampersands (i.e. "&" --> "and")
  + remove any beginning "the" (i.e. "The Journal" --> "Journal")
 
