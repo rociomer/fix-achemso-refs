@@ -51,6 +51,7 @@
 @Journal of Computational Chemistry, J. Comput. Chem.
 @Journal of Computational Physics, J. Comput. Phys.
 @Journal of Fuel Chemistry and Technology, J. Fuel Chem. Technol.
+@Journal of Magnetic Resonance, J. Magn. Reson.
 @Journal of Materials Chemistry A: Materials for Energy and Sustainability, J. Mater. Chem. A
 @Journal of Materials Chemistry A, J. Mater. Chem. A
 @Journal of Materials Chemistry B: Materials for Biology and Medicine, J. Mater. Chem. B
