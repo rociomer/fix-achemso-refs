@@ -27,6 +27,7 @@
 @Climatic Change, Clim. Change
 @Computers in Physics, Comput. Phys.
 @Crystal Growth and Design, Cryst. Growth Des.
+@Current Opinion in Colloid and Interface Science, Curr. Opin. Colloid Interface Sci.
 @eMagRes, eMagRes
 @Energy and Environmental Science, Energy Environ. Sci.
 @Energy and Fuels, Energy Fuels
