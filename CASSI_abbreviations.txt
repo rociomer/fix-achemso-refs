@@ -26,6 +26,7 @@
 @Chemistry of Materials, Chem. Mater.
 @Climatic Change, Clim. Change
 @Computers in Physics, Comput. Phys.
+@Computational Mechanics, Comput. Mech.
 @Crystal Growth and Design, Cryst. Growth Des.
 @Current Opinion in Colloid and Interface Science, Curr. Opin. Colloid Interface Sci.
 @eMagRes, eMagRes
